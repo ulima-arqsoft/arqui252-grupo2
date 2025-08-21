@@ -1,7 +1,7 @@
 # Proyecto Grupal - Arquitectura de Software
 
 ## Tabla de Contenido
-- [0. Acerca del Grupo](./0/0.md)
+- [0. Acerca del Grupo:](./0/0.md)
   - [0.1. Saez Olin Gabriel Enrique](./0/0.1/0.1.md)
   - [0.2. Integrante 2](./0/0.2/0.2.md)
   - [0.3. Integrante 3](./0/0.3/0.3.md)
